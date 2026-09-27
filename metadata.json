@@ -1,0 +1,6 @@
+{
+  "name": "Smart Customer Support Ticketing & Escalation Management System",
+  "description": "Full-stack customer support helpdesk with automated rule-based ticket classification, intelligent team routing, relational database tracking, and BFS/DFS escalation graph analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
